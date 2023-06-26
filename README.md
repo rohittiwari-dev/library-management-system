@@ -8,7 +8,7 @@
 
 1. Install `JDK^v8`
 2. run Live Project by running executable `/dist/Library_Management.jar`
-3. To make Changes Accordingly you need `NetNeans`
+3. To make Changes Accordingly you need [NetBeans](https://netbeans.apache.org/download/nb18/)
 4. All Clases and byte Codes are in `/Src` Folder
 
 ## Created & Maintained By
