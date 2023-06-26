@@ -19,7 +19,7 @@
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
-> ![QR](/assets/qr.webp)
+> ![QR](Assets/qr.webp)
 >
 > You can also nominate me for Github Star developer program
 > https://stars.github.com/nominate
